@@ -10,3 +10,6 @@ Adding a new line to check git pull
 
 
 Deleted few lines
+
+# Added new text after deletion few lines
+
