@@ -9,8 +9,4 @@ Adding the line to check git push from local to remote
 Adding a new line to check git pull
 
 
-Adding a new line to check git push second time
-
-
-Adding new line to test git push
-Adding new line to test git pull
+Deleted few lines
